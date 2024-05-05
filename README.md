@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-da-silva-61a834262/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaac_ofc332/)
 
-![isaacprod GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacprod&show_icons=true&theme=transparent)
+![isaacprod GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacprod&show_icons=true&theme=radical)
 
 
 ## Tecnologias que eu estou me familiarizando:
